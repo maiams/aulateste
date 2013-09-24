@@ -1,0 +1,26 @@
+root { 
+    display: block;
+}
+
+.erro {
+    background-color: #ffebe8;
+    border: 1px solid #dd3c10;
+    width: 230px;
+}
+
+
+form {
+    margin: 0;
+    padding: 0;
+    margin-top: 200px;
+}
+
+.login{
+    clear: left;
+    margin: auto;
+    padding: 15px 0;
+    text-align: left;
+    width: 380px;
+}
+
+
