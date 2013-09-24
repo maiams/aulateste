@@ -11,6 +11,8 @@ class Calculadora {
     public function imprimeSenha($a = 1) {
         print $a;
     }
+    
+    public function faznada() {}
 }
 
 ?>
