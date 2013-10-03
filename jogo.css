@@ -1,13 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
 #principal {
     display: table;
-    background: #0000ff;
-    width: 400px;
+    border-top: 1px solid; 
+	border-right: 1px solid; 
+	border-left: 1px solid; 
+    width: 500px;
     height: 300px;
+	margin: 0 auto;
+}
+#areaCachorro {
+	border-bottom: 1px solid; 
+	border-right: 1px solid; 
+	border-left: 1px solid; 
+	width: 500px;
+	height: 26px;
+	margin: 0 auto;
 }
 #cachorro {
     background-image: url('cachorro.jpg');
     height: 26px ;
     width: 30px ;
-    display: block;
-    margin: 376px auto 0 auto;
+}
+#osso {
+    background-color: #000;
+	height: 5px;
+	width: 20px;
+}
+#pontos {
+	width: 502px;
+	height: 70px;
+	margin: 0 auto;
+	background-color: #000;
+	font-family: 'arial black';
+	font-size: 40px;
+	color: white;
 }
